@@ -1,0 +1,30 @@
+/***********TAGS SELECTORS*************/
+body {
+  background-color: #bfbfbf;
+  text-align: center;
+}
+
+h1 {
+    color: #8c6a03;
+  }
+
+h3 {
+    color:#8c6a03;
+   }
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+  height: 0;
+}
+
+/******** CLASS SELECTORS*******/
+.name {
+  color: #f2e205;
+}
+.table{
+  position: relative;
+  left: 680px;
+}
